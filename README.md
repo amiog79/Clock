@@ -20,11 +20,11 @@
 
 		#clock {
 
-			font-size: 40px;
+			font-size: 50px;
 
 			width: 240px;
 
-			margin: 200px;
+			margin: 30px;
 
 			text-align: center;
 
@@ -39,8 +39,9 @@
 </head>
 
 <body>
+	
 
-	<div id="clock">8:10:45</div>
+	<div id="clock"></div>
 
 	<script>
 
