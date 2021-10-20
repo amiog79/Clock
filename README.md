@@ -20,9 +20,9 @@
 
 		#clock {
 
-			font-size: 175px;
+			font-size: 40px;
 
-			width: 900px;
+			width: 240px;
 
 			margin: 200px;
 
