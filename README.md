@@ -19,7 +19,7 @@
 
 			font-size: 40px;
 
-			width: 240px;
+			width: 260px;
 
 			margin: 35px;
 
